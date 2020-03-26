@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2344ca8-3199-44b2-8377-0c0da5075ab7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtCpwKiBgQbH2JIqJWUMTbxEaz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leo17\PycharmProjects\untitled\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TT">
+    <configuration name="第二天" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二天.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="第四堂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leo17\PycharmProjects\untitled\main\第四堂.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="第三堂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三堂.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TT" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.第二天" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2344ca8-3199-44b2-8377-0c0da5075ab7" name="Default Changelist" comment="" />
+      <created>1583752689691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583752689691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583755224849">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1462.864@74.0.1462.864" timestamp="1583755224849" />
+    <state x="570" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584959344299">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state x="570" y="235" key="#com.intellij.fileTypes.FileTypeChooser/72.0.1464.864@72.0.1464.864" timestamp="1584959344299" />
+    <state width="1443" height="159" key="GridCell.Tab.0.bottom" timestamp="1584876500814">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state width="1443" height="159" key="GridCell.Tab.0.bottom/72.0.1464.864@72.0.1464.864" timestamp="1584876500814" />
+    <state width="707" height="223" key="GridCell.Tab.0.bottom/74.0.1462.864/1920.0.1920.1050@74.0.1462.864" timestamp="1584098078357" />
+    <state width="707" height="223" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1584016323551" />
+    <state width="1443" height="159" key="GridCell.Tab.0.center" timestamp="1584876500814">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state width="1443" height="159" key="GridCell.Tab.0.center/72.0.1464.864@72.0.1464.864" timestamp="1584876500814" />
+    <state width="707" height="223" key="GridCell.Tab.0.center/74.0.1462.864/1920.0.1920.1050@74.0.1462.864" timestamp="1584098078357" />
+    <state width="707" height="223" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1584016323551" />
+    <state width="1443" height="159" key="GridCell.Tab.0.left" timestamp="1584876500814">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state width="1443" height="159" key="GridCell.Tab.0.left/72.0.1464.864@72.0.1464.864" timestamp="1584876500814" />
+    <state width="707" height="223" key="GridCell.Tab.0.left/74.0.1462.864/1920.0.1920.1050@74.0.1462.864" timestamp="1584098078357" />
+    <state width="707" height="223" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1584016323550" />
+    <state width="1443" height="159" key="GridCell.Tab.0.right" timestamp="1584876500814">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state width="1443" height="159" key="GridCell.Tab.0.right/72.0.1464.864@72.0.1464.864" timestamp="1584876500814" />
+    <state width="707" height="223" key="GridCell.Tab.0.right/74.0.1462.864/1920.0.1920.1050@74.0.1462.864" timestamp="1584098078357" />
+    <state width="707" height="223" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1584016323551" />
+    <state width="1364" height="258" key="GridCell.Tab.1.bottom" timestamp="1583846607813">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="258" key="GridCell.Tab.1.bottom/74.0.1462.864@74.0.1462.864" timestamp="1583846607813" />
+    <state width="1364" height="258" key="GridCell.Tab.1.center" timestamp="1583846607813">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="258" key="GridCell.Tab.1.center/74.0.1462.864@74.0.1462.864" timestamp="1583846607813" />
+    <state width="1364" height="258" key="GridCell.Tab.1.left" timestamp="1583846607812">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="258" key="GridCell.Tab.1.left/74.0.1462.864@74.0.1462.864" timestamp="1583846607812" />
+    <state width="1364" height="258" key="GridCell.Tab.1.right" timestamp="1583846607813">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="258" key="GridCell.Tab.1.right/74.0.1462.864@74.0.1462.864" timestamp="1583846607813" />
+    <state x="150" y="88" key="SettingsEditor" timestamp="1584017466696">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="150" y="88" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1584017466696" />
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584958590558">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog/72.0.1464.864@72.0.1464.864" timestamp="1584958590558" />
+    <state x="494" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1584008802495" />
+    <state x="107" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1584359543193">
+      <screen x="72" y="0" width="1464" height="864" />
+    </state>
+    <state x="107" y="185" width="672" height="678" key="search.everywhere.popup/72.0.1464.864@72.0.1464.864" timestamp="1584359543193" />
+  </component>
+</project>
