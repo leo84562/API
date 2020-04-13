@@ -1,1 +1,2 @@
-import requests
+print('A')
+print('A')
